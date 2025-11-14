@@ -1,0 +1,5 @@
+Direction,Median_Scheduled_minutes,UnimpededMedian_ACT_minutes,Padding_minutes
+ATL→LAX,299.0,284.0,15.0
+JFK→ORD,167.0,155.0,12.0
+LAX→ATL,259.0,249.0,10.0
+ORD→JFK,139.0,126.0,13.0
